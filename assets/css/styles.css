@@ -317,6 +317,12 @@ img{
 .skills__jquery{
   width: 70%;
 }
+.skills__react{
+  width: 20%;
+}
+.skills__nodejs{
+  width: 20%;
+}
 .skills__img{
   border-radius: .5rem;
   box-shadow: 40px 4px 25px rgba(14,36,49,.15);
