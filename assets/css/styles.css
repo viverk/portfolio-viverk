@@ -376,7 +376,7 @@ img {
   outline: none;
   font-size: var(--normal-font-size);
   cursor: pointer;
-  margin-left: auto;
+  margin: 20px auto;
 }
 
 /* ===== FOOTER =====*/
